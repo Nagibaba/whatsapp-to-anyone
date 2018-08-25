@@ -1,0 +1,17 @@
+{
+  "expo": {
+  	"name": "Whatsapp To Anyone",
+  	"description": "Now you can write whatsapp messages to anyone without adding to your contacts",
+    "sdkVersion": "27.0.0",
+    "icon":"./logo.png",
+    "splash": {
+      "image": "./logo.png",
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+  	  "package": "com.db.whatsapptoanyone"
+  	}
+  }
+ 
+	
+}
